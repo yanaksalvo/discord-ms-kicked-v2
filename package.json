@@ -1,0 +1,15 @@
+{
+  "name": "kick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "kick.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.16.0"
+  }
+}
